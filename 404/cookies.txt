@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.playtictactoe.org	TRUE	/	FALSE	1999999999	__cfduid	d69aa6152dd326e959e4113d1140144721593826212
+playtictactoe.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
